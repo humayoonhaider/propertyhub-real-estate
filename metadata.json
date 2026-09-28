@@ -1,0 +1,6 @@
+{
+  "name": "PropertyHub - Real Estate Discovery Platform",
+  "description": "A fictional real estate property discovery platform showcasing homes, apartments, villas, and commercial spaces. Portfolio concept by SH Web Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
